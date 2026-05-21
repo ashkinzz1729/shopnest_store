@@ -1,5 +1,8 @@
 # ShopNest Store — Exploratory Data Analysis (EDA)
 
+## Dashboard Preview
+01_monthly_orders_trend.png
+
 A beginner-level Python EDA project on an e-commerce store dataset.
 Analysed 99,000+ orders to find trends in sales, delivery, payments, and customer behaviour.
 
